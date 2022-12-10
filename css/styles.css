@@ -71,7 +71,9 @@ img {
     height: auto;
   }
 
-
+.btn:hover{
+    color: blue;
+}
 .btn {
 font-family: 'Roboto-bold';
 font-size: 16px;
