@@ -122,9 +122,7 @@ padding-bottom: 48px;
     background-color: #2E2F42 ;
     padding: 192px 0px 192px 0px;
     text-align: center;
-    justify-content: center;
     margin: 0;
-    padding-bottom: 120px;
 }
 
 .head {
@@ -195,7 +193,7 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 color: #E7E9FC;
 max-width: 264px;
-padding-top: 16px;
+margin-top: 16px;
 }
 .footer {
     background-color: #2E2F42;
